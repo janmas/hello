@@ -1,2 +1,2 @@
 1 - fix issue 55
-end of fix.
+end of fix. amended.
