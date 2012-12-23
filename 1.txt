@@ -2,3 +2,5 @@
 end of fix. amended.
 end of fix. 
 job done. feature 1 added.
+feature 02 added.
+feature 02 completed.
