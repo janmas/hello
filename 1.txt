@@ -4,6 +4,3 @@ end of fix.
 job done. feature 1 added.
 feature 02 added.
 feature 02 completed.
-feature 56 done. modified.
-added test line
-added
