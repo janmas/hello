@@ -1,4 +1,4 @@
-1 - fix issue 55
+1 - fix issue 55x
 end of fix. amended.
 end of fix. 
 job done. feature 1 added.
