@@ -4,3 +4,4 @@ end of fix.
 job done. feature 1 added.
 feature 02 added.
 feature 02 completed.
+changed (after installing of github desktop)
